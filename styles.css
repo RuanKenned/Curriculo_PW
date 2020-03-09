@@ -8,6 +8,7 @@ h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#ffffff;}
 h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#ffffff;}
 h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#ffffff;}
 h4{font: 400 30px/22px 'Bree Serif', Georgia, serif; color:#000000;}
+h5{font: 400 25px/22px 'Bree Serif', Georgia, serif; color:#ffb400;}
 
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#6a6969;}
@@ -41,11 +42,11 @@ a img{border:0px;}
 	float:left;
 	font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#000000;
 }
-#header #main-menu{float:right; padding-top:45px;}
+#header #main-menu{float:right; padding-top:70px;}
 #header #main-menu li{
 	float:left;
 	list-style:none;
-	margin-left:27px;
+	margin-left:15px;
 	font: 400 16px/20px 'Bree Serif', Georgia, serif;
 }
 
@@ -99,7 +100,7 @@ a img{border:0px;}
 /* EXPERIENCE SECTION */
 /****************************************************/
 
-#experience{margin:0px 43px; padding-top:40px;}
+#experience{margin:0px 43px; padding-top:0px;}
 #experience .col{
 	width:235px;
 	float:left;
@@ -111,7 +112,7 @@ a img{border:0px;}
 /* WORK SECTION */
 /****************************************************/
 
-#work{margin:0px 43px; padding-top:40px;}  
+#work{margin:0px 43px; padding-top:0px;}  
 #work .content{overflow:auto;}   
 #work #work-thumbs li{
 	list-style:none;
@@ -124,7 +125,7 @@ a img{border:0px;}
 /****************************************************/
 /* CONNECT SECTION */
 /****************************************************/
-#connect{margin:0px 43px; padding-top:40;}
+#connect{margin:0px 43px; padding-top:0px;}
 #connect .content{overflow:auto;}
 #connect #form{
 	width:410px;
@@ -206,3 +207,10 @@ a img{border:0px;}
 }
 .top-divider{margin-bottom:40px;}
 .bottom-divider{margin-top:40px;}
+
+/****************************************************/
+/* MODIFICAÇÃO SECTION */
+/****************************************************/
+
+#trabalho{margin:0px 43px; padding-top:0px;}
+#trabalho .content{overflow:auto;}
