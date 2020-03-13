@@ -7,5 +7,5 @@ function azul() {
 function amarelo() { 
     document.getElementById("header").style.backgroundColor = '#ffb400';
     //alert(document.getElementById("header").style.backgroundColor);
-    alert("Cabeçalho agora é amerelo topper");
+    alert("Cabeçalho agora é amerelo topper"); 
 }
